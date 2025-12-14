@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "若いお巡りさん",
+  "base_artist": "曽根史郎",
+  "createdAt": "2025-12-14T10:24:05.801423Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "若いお巡りさん",
+      "artist": "曽根史郎",
+      "has_synced": false,
+      "path": "select/pl_01_若いお巡りさん_曽根史郎.txt"
+    }
+  ]
+}
